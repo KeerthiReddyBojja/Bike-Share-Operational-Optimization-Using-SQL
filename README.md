@@ -1,4 +1,4 @@
-# Bike-Share-Operational-Optimization-Using-SQL
+# Citi Bike Share Operational Optimization
 
 ## Business Problem Statement
 Citi Bike loses riders and revenue when high-demand stations run out of bikes during morning rush hour. The goal is to use trip data to: 
